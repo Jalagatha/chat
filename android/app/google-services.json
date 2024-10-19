@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847399717440",
+    "project_id": "chat-23d66",
+    "storage_bucket": "chat-23d66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847399717440:android:5e9395ea54b9117438ada5",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa1znh_U9JjP4vlPk4Fz6_3qsctV8MpY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
